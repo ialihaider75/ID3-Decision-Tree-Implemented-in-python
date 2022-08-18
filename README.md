@@ -14,5 +14,5 @@ Data structure dictionary is used to construct tree the keys in the dictionary a
 
 
 Ali Haider
-Developer @Technisium 
-Email: a.h459313@gmail.com
+Developer @i2c Inc.
+Email: ialihaider75@gmail.com
